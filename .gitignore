@@ -1,7 +1,7 @@
 unpackage/cache/
 unpackage/debug/
 unpackage/dist/
-unpackage/release/
+unpackage/release/*
 node_modules/
 wxcomponents/**/*.vue
 wxcomponents/**/*.css
@@ -9,3 +9,5 @@ wxcomponents/**/*.css
 .DS_Store
 *_bak*
 *-bak*
+*.ipa
+*.apk
