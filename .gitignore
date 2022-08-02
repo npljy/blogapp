@@ -1,0 +1,11 @@
+unpackage/cache/
+unpackage/debug/
+unpackage/dist/
+unpackage/release/
+node_modules/
+wxcomponents/**/*.vue
+wxcomponents/**/*.css
+.project
+.DS_Store
+*_bak*
+*-bak*
