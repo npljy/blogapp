@@ -68,7 +68,7 @@
             "waiting" : true
         },
         "statusbar" : {
-            "immersed" : "supportedDevice"
+            "immersed" : false
         },
         "popGesture" : "close",
         /*设置应用默认侧滑返回关闭Webview窗口，"none"为无侧滑返回功能，"hide"为侧滑隐藏Webview窗口。参考http://ask.dcloud.net.cn/article/102*/

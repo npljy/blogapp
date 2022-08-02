@@ -7,6 +7,17 @@
 		<!--使用本地选项卡时，将如下两行代码注释取消-->
 		<!--<link rel="stylesheet" type="text/css" href="__wap2apptabbar.css" />
 		<script src="__wap2apptabbar.js" type="text/javascript" charset="utf-8"></script>-->
+    <script type="text/javascript">        
+        if(window.plus){
+            plusReady()
+        }else{
+            document.addEventListener('plusready',plusReady,false)
+        }
+        function plusReady(){
+            plus.navigator.setStatusBarBackground('#FFFFFF');
+            plus.navigator.setStatusBarStyle('dark');
+        }
+    </script>
 	</head>
 
 	<body>
