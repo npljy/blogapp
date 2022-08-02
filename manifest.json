@@ -260,5 +260,5 @@
         "landscape-primary",
         "landscape-secondary"
     ],
-    "fullscreen" : false
+    "fullscreen" : true
 }
