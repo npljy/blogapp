@@ -1,8 +1,9 @@
-unpackage/cache/
-unpackage/debug/
-unpackage/dist/
+unpackage/cache/*
+unpackage/cache/apk/*
+unpackage/debug/*
+unpackage/dist/*
 unpackage/release/*
-node_modules/
+node_modules/*
 wxcomponents/**/*.vue
 wxcomponents/**/*.css
 .project
