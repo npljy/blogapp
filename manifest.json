@@ -52,7 +52,8 @@
         "Webview" : {},
         "NativeUI" : {},
         "Navigator" : {},
-        "NativeObj" : {}
+        "NativeObj" : {},
+        "Share" : {}
     },
     "plus" : {
         "kernel" : {
@@ -250,7 +251,8 @@
                 "dSYMs" : false
             },
             "plugins" : {
-                "ad" : {}
+                "ad" : {},
+                "share" : {}
             }
         }
     },
